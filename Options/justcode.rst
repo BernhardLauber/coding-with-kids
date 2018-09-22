@@ -3,6 +3,7 @@ JustCode
 ========
 Key Goals
 -----------
+The main goals are to learn how to use a language and write and understand your own program.
 
 Options
 -------
