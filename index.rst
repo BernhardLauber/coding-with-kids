@@ -12,6 +12,8 @@ own lives, but also *create or
 strengthen* some lasting 
 **bonds between you and them.**
 
+Here is a **shiny** new note.
+
 .. attention::
    The integration of ReadTheDocs with GitHub is really cool!
 
