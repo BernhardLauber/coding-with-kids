@@ -12,6 +12,9 @@ own lives, but also *create or
 strengthen* some lasting 
 **bonds between you and them.**
 
+.. attention::
+   The integration of ReadTheDocs with GitHub is really cool!
+
 Throughout your journey you will 
 both likely learn new ``concepts`` and 
 ``terms`` that will expand your horizons and 
